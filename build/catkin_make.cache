@@ -1,0 +1,2 @@
+fusion_of_camera_and_lidar
+-DCATKIN_DEVEL_PREFIX=/home/agilex/homework/task2_1/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/homework/task2_1/ros_ws/install -G Unix Makefiles

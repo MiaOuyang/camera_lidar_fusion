@@ -1,0 +1,8 @@
+prefix=/home/agilex/homework/task2_1/ros_ws/devel
+
+Name: fusion_of_camera_and_lidar
+Description: Description of fusion_of_camera_and_lidar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
